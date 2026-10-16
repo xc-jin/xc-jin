@@ -12,7 +12,7 @@ My research focuses on LLM-driven software testing, particularly how program str
 
 I am also interested in extending executable properties to the evaluation of agent trajectories and investigating their role in reinforcement learning feedback.
 
-[Email](mailto:xc.jin@zju.edu.cn) · [GitHub](https://github.com/xc-jin) · [Research](#research)
+[Website](https://xc-jin.github.io/) · [Email](mailto:xc.jin@zju.edu.cn) · [GitHub](https://github.com/xc-jin) · [Research](#research)
 
 ## Research interests
 
